@@ -1,4 +1,4 @@
-title: "Getting-and-Cleaning-Data-Week-4-Assignment"
+title: "Getting and Cleaning Data Peer-graded Assignment"
 author: "Jani Savolainen"
 date: "23.10.2018"
 output: "tidydata.txt""

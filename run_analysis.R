@@ -35,7 +35,6 @@ features <- read.table(file.path(dataPath, "features.txt"), as.is = TRUE)
 
 # read activity labels
 activities <- read.table(file.path(dataPath, "activity_labels.txt"))
-##colnames(activities) <- c("activityId", "activityLabel")
 
 # merge train and test data and then merge all the data
 trainMerge <- cbind(trainingSubjects, trainingValues, trainingActivity)
